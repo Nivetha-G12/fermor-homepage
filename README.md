@@ -70,4 +70,4 @@ All calculations are pure functions in `src/lib/finance.ts`. Amounts are shown w
 
 ## Author
 
-[Your name] · [GitHub profile or email]
+Nivetha G [Mail: vigneshguru8877@gmail.com]
