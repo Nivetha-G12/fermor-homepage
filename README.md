@@ -4,8 +4,8 @@
 
 A single-page homepage for Fermor, a finance platform for people in India, built as a frontend assignment. Most people don't start with "I need a SIP calculator." They start with "I just got my first salary" or "I want to buy something big." So the hero asks what's on your mind, and each answer opens the right calculator.
 
-![Desktop view](docs/desktop.png)
-![Mobile view](docs/mobile.png)
+![Desktop view](docs/Desktop.jpeg)
+![Mobile view](docs/Mobile.jpeg)
 
 ## What's on the page
 
