@@ -6,6 +6,7 @@ const serif = Instrument_Serif({ weight: "400", subsets: ["latin"], variable: "-
 const sans = DM_Sans({ subsets: ["latin"], variable: "--font-sans-v" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://fermor.in"),
   title: "Fermor | Clear math for every money decision",
   description: "Free SIP, EMI, and FD calculators with deposit comparison in plain numbers, built for first-time investors in India.",
   openGraph: {

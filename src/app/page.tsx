@@ -12,7 +12,7 @@ const principles = [
 
 const trustItems = [
   ["What stays on your device.", "The numbers you type are used for the calculation in your browser and are not sent to any server."],
-  ["What we ask for.", "Nothing to calculate. An email only if you join the waitlist."],
+  ["What we ask for.", "Nothing to use the calculators. An email only if you join the waitlist."],
   ["What the waitlist does today.", "It is a demo form and does not store emails yet."],
   ["What this is not.", "Fermor is educational and not a SEBI-registered adviser. Results are illustrations based on the rates you choose."],
 ];
